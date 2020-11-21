@@ -9,7 +9,9 @@
 
 
 module.exports = {
-  publicPath: '/task-manager/',
+  publicPath: process.env.NODE_ENV === 'production'
+    ? '/task-manager/'
+    : '/',
   transpileDependencies: [
     'vue-echarts',
     'resize-detector'
