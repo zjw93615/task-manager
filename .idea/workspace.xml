@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="38fd1a45-386b-4592-bed4-7d245bc8be42" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hSBCuZZ54hIaGGJx875I8BxEdI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/assets/images/pages" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assets/images/pages" />
+      <recent name="$PROJECT_DIR$/src/views/pages" />
+      <recent name="$PROJECT_DIR$/src/store" />
+      <recent name="$PROJECT_DIR$/src/views" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/views/projects" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="38fd1a45-386b-4592-bed4-7d245bc8be42" name="Default Changelist" comment="" />
+      <created>1599994489827</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599994489827</updated>
+      <workItem from="1599994491099" duration="2442000" />
+      <workItem from="1600076324225" duration="5495000" />
+      <workItem from="1600244056369" duration="11904000" />
+      <workItem from="1600405650628" duration="16952000" />
+      <workItem from="1600500063228" duration="2586000" />
+      <workItem from="1600681397026" duration="7069000" />
+      <workItem from="1602049103682" duration="3929000" />
+      <workItem from="1602286977146" duration="9517000" />
+      <workItem from="1602635111263" duration="5395000" />
+      <workItem from="1602720162519" duration="2857000" />
+      <workItem from="1602817713478" duration="7701000" />
+      <workItem from="1605937739723" duration="1196000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="445" y="217" width="574" height="490" key="find.popup" timestamp="1605937920669">
+      <screen x="0" y="23" width="1280" height="725" />
+    </state>
+    <state x="445" y="217" width="574" height="490" key="find.popup/0.23.1280.725@0.23.1280.725" timestamp="1605937920669" />
+    <state x="-1253" y="26" width="596" height="490" key="find.popup/0.23.1280.726/-1920.-257.1920.1057@-1920.-257.1920.1057" timestamp="1602827840569" />
+    <state x="-1295" y="-22" width="670" height="676" key="search.everywhere.popup" timestamp="1602289997543">
+      <screen x="-1920" y="-257" width="1920" height="1057" />
+    </state>
+    <state x="-1295" y="-22" width="670" height="676" key="search.everywhere.popup/0.23.1280.726/-1920.-257.1920.1057@-1920.-257.1920.1057" timestamp="1602289997543" />
+  </component>
+</project>
